@@ -3,7 +3,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/fly)
   ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/fly?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/fly?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/adnan-bhaldar_?style=social)](https://twitter.com/intent/follow?screen_name=adnan-bhaldar_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/adnan__bhaldar_?style=social)](https://twitter.com/intent/follow?screen_name=adnan-bhaldar_)
   [![YouTube Video Views](https://img.shields.io/youtube/views/wWyv5dl0nFg?style=social)](https://youtu.be/wWyv5dl0nFg)
 
   <br />
