@@ -13,7 +13,7 @@
 
   Fly is a fully responsive flight website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/fly/"><strong>➥ Live Demo</strong></a>
+  <a href="https://adnan-bhaldar.github.io/Fly/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
