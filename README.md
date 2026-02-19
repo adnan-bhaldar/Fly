@@ -3,8 +3,6 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/adnan-bhaldar/fly)
   ![GitHub stars](https://img.shields.io/github/stars/adnan-bhaldar/fly?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/adnan-bhaldar/fly?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Adnan__Bhaldar?style=social)](https://twitter.com/intent/follow?screen_name=adnan__bhaldar)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/wWyv5dl0nFg?style=social)](https://youtu.be/wWyv5dl0nFg)
 
   <br />
   <br />
@@ -44,11 +42,3 @@ Windows:
 ```bash
 git clone https://github.com/adnan-bhaldar/fly.git
 ```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/Adnan__Bhaldar).
-
-### License
-
-This project is **free to use** and does not contains any license.

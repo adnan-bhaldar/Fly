@@ -826,6 +826,19 @@ body.active { overflow: hidden; }
   color: var(--satin-sheen-gold);
 }
 
+.copyright {
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    gap: 5px;               
+    white-space: nowrap;    
+}
+
+.copyright a{
+    color: var(--satin-sheen-gold);
+}
+
+
 
 
 
